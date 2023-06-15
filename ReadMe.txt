@@ -4,7 +4,7 @@
 2.2 找到可执行文件pyinstaller.exe 
 2.3 打包：D:\AllServer\Anaconda\Scripts\pyinstaller.exe  --onefile main.py --name JavaFileMerge.exe
 方法二：执行build.py配置文件 python  build.py
-	
+详细介绍请参考个人博客（语雀）
 
 打包遇见：
 The 'pathlib' package is an obsolete backport of a standard library package and is incompatible with PyInstaller. Please remove this package (located in D:\AllServer\Anaconda\lib\site-packages) using
@@ -16,7 +16,7 @@ conda config --set show_channel_urls yes
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 
-手动配置： 用户目录下\.condarc 文件，添加下面的内容
+手动配置镜像源： 用户目录下\.condarc 文件，添加下面的内容
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
