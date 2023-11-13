@@ -3,3 +3,7 @@
 -- 支持读取指定问件格式的文件内容合并
 -- 支持自定义是否写入目录功能
 -- 美化word文档的输出，设置行距，字体和大小
+
+3.0 新增swagger转word文档的工具类， IP扫描类
+-- SwaggerToWord.py
+-- WriteTable.py

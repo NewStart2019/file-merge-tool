@@ -1,0 +1,2510 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<w:document xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" mc:Ignorable="w14 wp14 w15">
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:ind w:firstLine="964"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:drawing>
+                    <wp:anchor behindDoc="0" distT="0" distB="0" distL="0" distR="0" simplePos="0" locked="0"
+                               layoutInCell="0" allowOverlap="1" relativeHeight="2">
+                        <wp:simplePos x="0" y="0"/>
+                        <wp:positionH relativeFrom="column">
+                            <wp:posOffset>7966710</wp:posOffset>
+                        </wp:positionH>
+                        <wp:positionV relativeFrom="paragraph">
+                            <wp:posOffset>-320675</wp:posOffset>
+                        </wp:positionV>
+                        <wp:extent cx="1243965" cy="1029335"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:wrapNone/>
+                        <wp:docPr id="1" name="\xe5\x9b\xbe\xe7\x89\x87 1" descr="{{unitSeal}} {{unitSeal}}"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="1" name="\xe5\x9b\xbe\xe7\x89\x87 1"
+                                                   descr="{{unitSeal}} {{unitSeal}}"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId2"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="1243965" cy="1029335"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:anchor>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t xml:space="preserve">G.2 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>\xe7\xb2\x89\xe7\x85\xa4\xe7\x81\xb0\xe6\xa3\x80\xe6\xb5\x8b\xe6\x8a\xa5\xe5\x91\x8a</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:spacing w:lineRule="exact" w:line="240"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+            </w:r>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkStart w:id="1" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="1"/>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:tabs>
+                    <w:tab w:val="clear" w:pos="420"/>
+                    <w:tab w:val="left" w:pos="5670" w:leader="none"/>
+                    <w:tab w:val="left" w:pos="9570" w:leader="none"/>
+                    <w:tab w:val="left" w:pos="14355" w:leader="none"/>
+                </w:tabs>
+                <w:snapToGrid w:val="false"/>
+                <w:spacing w:lineRule="auto" w:line="360"/>
+                <w:ind w:firstLine="360"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe6\xa3\x80\xe6\xb5\x8b\xe6\x97\xa5\xe6\x9c\x9f\xef\xbc\x9a</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>2023</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe5\xb9\xb4</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>07</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe6\x9c\x88</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>11</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe6\x97\xa5</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                    <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">      </w:t>
+            </w:r>
+            <w:bookmarkStart w:id="2" w:name="_GoBack_Copy_1"/>
+            <w:bookmarkEnd w:id="2"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                    <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">             </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe6\x8a\xa5\xe5\x91\x8a\xe6\x97\xa5\xe6\x9c\x9f\xef\xbc\x9a </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>2023</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe5\xb9\xb4</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>07</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe6\x9c\x88</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>13</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe6\x97\xa5                     </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:tabs>
+                    <w:tab w:val="clear" w:pos="420"/>
+                    <w:tab w:val="left" w:pos="5460" w:leader="none"/>
+                    <w:tab w:val="left" w:pos="10080" w:leader="none"/>
+                    <w:tab w:val="left" w:pos="14355" w:leader="none"/>
+                </w:tabs>
+                <w:snapToGrid w:val="false"/>
+                <w:spacing w:lineRule="auto" w:line="360"/>
+                <w:ind w:firstLine="360"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"
+                              w:eastAsia="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                    <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe6\xa3\x80\xe6\xb5\x8b\xe4\xbe\x9d\xe6\x8d\xae\xef\xbc\x9a</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe6\xb5\x8b\xe8\xaf\x95\xe4\xbe\x9d\xe6\x8d\xae                            </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe6\x8a\xa5\xe5\x91\x8a\xe7\xbc\x96\xe5\x8f\xb7\xef\xbc\x9a </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">001Q0905002300086A                                    </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe5\x8d\x95  \xe4\xbd\x8d\xef\xbc\x88\xe7\x9b\x96\xe7\xab\xa0\xef\xbc\x89 </w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="7"/>
+                <w:tblW w:w="14487" w:type="dxa"/>
+                <w:jc w:val="center"/>
+                <w:tblInd w:w="0" w:type="dxa"/>
+                <w:tblLayout w:type="fixed"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="108" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="108" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="3159"/>
+                <w:gridCol w:w="2085"/>
+                <w:gridCol w:w="2113"/>
+                <w:gridCol w:w="1917"/>
+                <w:gridCol w:w="2270"/>
+                <w:gridCol w:w="1207"/>
+                <w:gridCol w:w="1735"/>
+            </w:tblGrid>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="510" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:ind w:right="-107" w:hanging="113"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\x94\x9f\xe4\xba\xa7\xe5\x8e\x82\xe5\xae\xb6</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4198" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>
+                                \xe9\x87\x8d\xe5\xba\x86\xe5\x9c\xa3\xe7\x9b\x8a\xe5\xae\x9e\xe4\xb8\x9a\xe6\x9c\x89\xe9\x99\x90\xe5\x85\xac\xe5\x8f\xb8
+                            </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1917" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xa0\xb7\xe5\x93\x81\xe7\xad\x89\xe7\xba\xa7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe4\xb8\x80\xe7\xba\xa7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1207" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xa0\xb7\xe5\x93\x81\xe7\xb1\xbb\xe5\x88\xab</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1735" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xb5\x8b\xe8\xaf\x95\xe7\xb1\xbb\xe5\x88\xab</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="510" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:tabs>
+                                <w:tab w:val="clear" w:pos="420"/>
+                                <w:tab w:val="left" w:pos="707" w:leader="none"/>
+                                <w:tab w:val="center" w:pos="1579" w:leader="none"/>
+                            </w:tabs>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe5\x87\xba\xe5\x8e\x82\xe6\x89\xb9\xe5\x8f\xb7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4198" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>4312657843985</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1917" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe5\x8f\x96\xe6\xa0\xb7\xe5\x9f\xba\xe6\x95\xb0\xef\xbc\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="FF0000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>t</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x89</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>1000</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1207" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xa0\xb7\xe5\x93\x81\xe7\xbc\x96\xe5\x8f\xb7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1735" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>23Q090500-00086A</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="510" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:vMerge w:val="restart"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:tabs>
+                                <w:tab w:val="clear" w:pos="420"/>
+                                <w:tab w:val="left" w:pos="707" w:leader="none"/>
+                                <w:tab w:val="center" w:pos="1579" w:leader="none"/>
+                            </w:tabs>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xa3\x80 \xe6\xb5\x8b \xe5\x8f\x82 \xe6\x95\xb0</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6115" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\x8a\x80 \xe6\x9c\xaf \xe6\x8c\x87 \xe6\xa0\x87</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:vMerge w:val="restart"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xa3\x80 \xe6\xb5\x8b \xe7\xbb\x93 \xe6\x9e\x9c</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge w:val="restart"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe5\x8d\x95 \xe9\xa1\xb9 \xe7\xbb\x93 \xe8\xae\xba</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="401" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:ind w:right="202" w:hanging="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2085" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe2\x85\xa0</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xba\xa7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2113" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe2\x85\xa1</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xba\xa7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1917" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe2\x85\xa2</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xba\xa7</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="556" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xbb\x86\xe5\xba\xa6\xef\xbc\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>45\xce\xbcm</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\x96\xb9\xe5\xad\x94\xe7\xad\x9b\xe7\xad\x9b\xe4\xbd\x99\xef\xbc\x89\xef\xbc\x88
+                            </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>%</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x89</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2085" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2113" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe2\x88\x9a</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1917" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>45%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xac\xa6\xe5\x90\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t/>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t/>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="556" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe9\x9c\x80\xe6\xb0\xb4\xe9\x87\x8f\xe6\xaf\x94\xef\xbc\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>%</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x89</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2085" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2113" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe2\x88\x9a</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1917" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>90.99%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xac\xa6\xe5\x90\x88</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="556" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\x83\xa7\xe5\xa4\xb1\xe9\x87\x8f\xef\xbc\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>%</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x89</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2085" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2113" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe2\x88\x9a</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1917" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>45%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe4\xb8\x8d\xe7\xac\xa6\xe5\x90\x88</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="556" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe5\x90\xab\xe6\xb0\xb4\xe9\x87\x8f\xef\xbc\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>%</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x89</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6115" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>80%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>90%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe7\xac\xa6\xe5\x90\x88</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="556" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe5\xae\x89\xe5\xae\x9a\xe6\x80\xa7</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>[</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe9\x9b\xb7\xe6\xb0\x8f\xe5\xa4\xb9\xe6\xb3\x95</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>]/</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x88</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>mm</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xef\xbc\x89</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6115" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="556" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe5\xbc\xba\xe5\xba\xa6\xe6\xb4\xbb\xe6\x80\xa7\xe6\x8c\x87\xe6\x95\xb0</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>/%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6115" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2270" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----%</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2942" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="864" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>\xe6\xa3\x80\xe6\xb5\x8b\xe7\xbb\x93\xe8\xae\xba</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="11327" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>
+                                \xe7\xbb\x8f\xe9\x87\x87\xe6\xa0\xb7\xef\xbc\x8c\xe6\x9d\xa5\xe6\xa0\xb7\xe6\x89\x80\xe6\xa3\x80\xe5\x8f\x82\xe6\x95\xb0\xe5\x9d\x87\xe7\xac\xa6\xe5\x90\x88&lt;&lt;\xe9\xa2\x84\xe6\x8b\x8c\xe7\xa0\x82\xe6\xb5\x86&gt;&gt;\xe2\x80\xa6\xe2\x80\xa6
+                            </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:val="614" w:hRule="atLeast"/>
+                    <w:cantSplit w:val="true"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3159" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:color w:val="000000"/>
+                                <w:kern w:val="0"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                                <w:lang w:bidi="ar-SA"/>
+                            </w:rPr>
+                            <w:t>\xe5\xa4\x87 \xe6\xb3\xa8</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="11327" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="000000"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Normal"/>
+                            <w:widowControl w:val="false"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>----</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:spacing w:before="156" w:after="0"/>
+                <w:ind w:firstLine="270"/>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe6\x89\xb9  \xe5\x87\x86\xef\xbc\x9a    </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe5\xbc\xa0\xe4\xb8\x89                                       </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe5\xae\xa1  \xe6\xa0\xb8\xef\xbc\x9a       </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe6\x9d\x8e\xe5\x9b\x9b                                          </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>\xe6\xa3\x80 \xe6\xb5\x8b\xef\xbc\x9a</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe7\x8e\x8b\xe4\xba\x94\xe3\x80\x81\xe8\xb5\xb5\xe5\x85\xad  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:ind w:firstLine="225"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:spacing w:val="10"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+                <w:t>
+                    \xe6\x9c\xac\xe6\x8a\xa5\xe5\x91\x8a\xe4\xb8\x8d\xe5\xbe\x97\xe8\x87\xaa\xe8\xa1\x8c\xe6\xb6\x82\xe6\x94\xb9\xe3\x80\x81\xe5\xa2\x9e\xe5\x88\xa0\xef\xbc\x8c\xe5\x90\xa6\xe5\x88\x99\xe4\xb8\x80\xe5\xbe\x8b\xe6\x97\xa0\xe6\x95\x88\xe3\x80\x82\xe6\xa3\x80\xe6\xb5\x8b\xe6\x8a\xa5\xe5\x91\x8a\xe9\x9c\x80\xe5\x8a\xa0\xe7\x9b\x96\xe6\x9c\xac\xe5\x85\xac\xe5\x8f\xb8\xe9\xb2\x9c\xe7\xab\xa0\xe5\x90\x8e\xe6\x96\xb9\xe5\x8f\xaf\xe7\x94\x9f\xe6\x95\x88\xe3\x80\x82\xe5\x85\xac\xe5\x8f\xb8
+                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe5\x9c\xb0\xe5\x9d\x80\xef\xbc\x9a  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+                <w:t xml:space="preserve">\xe9\x87\x8d\xe5\xba\x86\xe5\xb8\x82\xe6\xb2\x99\xe5\xb9\xb3\xe5\x9d\x9d\xe5\x8c\xba\xe8\xa5\xbf\xe6\xb0\xb8\xe9\x95\x87\xe5\xaf\x8c\xe5\xba\xb7\xe6\x96\xb0\xe5\x9f\x8e                      </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+                <w:t>\xef\xbc\x8c</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:spacing w:val="10"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+                <w:t>\xe7\x94\xb5\xe8\xaf\x9d\xef\xbc\x9a</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:spacing w:val="10"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+                <w:t>65849291</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="\xe5\xae\x8b\xe4\xbd\x93" w:hAnsi="\xe5\xae\x8b\xe4\xbd\x93"/>
+                    <w:bCs/>
+                    <w:spacing w:val="10"/>
+                    <w:sz w:val="15"/>
+                    <w:szCs w:val="15"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr/>
+            </w:r>
+        </w:p>
+        <w:sectPr>
+            <w:type w:val="nextPage"/>
+            <w:pgSz w:orient="landscape" w:w="16838" w:h="11906"/>
+            <w:pgMar w:left="720" w:right="720" w:gutter="0" w:header="0" w:top="720" w:footer="0" w:bottom="720"/>
+            <w:pgNumType w:fmt="decimal"/>
+            <w:formProt w:val="false"/>
+            <w:textDirection w:val="lrTb"/>
+            <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="5734"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
