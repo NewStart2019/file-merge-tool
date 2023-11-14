@@ -30,9 +30,10 @@ def add_bold_heading(doc, text, level, isBold: bool, font_size=None, font_color=
     if font_color:
         font.color.rgb = RGBColor(*font_color)
 
+
 def add_table_from_parameters(doc: Document, definition: dict, parameters: dict):
     # 添加表格
-    headers = ["参数名称", "物理含义", "类型", "是否必填", "参数位置(示例)"]
+    headers = ["参数名称", "物理含义", "类型", "是否必填", "参数位置", "示例"]
     table = doc.add_table(rows=1, cols=len(headers))
 
     # 添加表头
@@ -59,6 +60,7 @@ def add_table_from_parameters(doc: Document, definition: dict, parameters: dict)
         row_cells[3].text = str(param.get('required', ''))
         position = param.get('in', '')
         row_cells[4].text = position
+        row_cells[5].text = str(param.get('x-example', ''))
         if position == 'body':
             originalRef = param.get('schema', {}).get('originalRef', '')
             if originalRef in definition:
@@ -75,6 +77,7 @@ def add_table_from_parameters(doc: Document, definition: dict, parameters: dict)
     for row_cells in table.rows:
         for cell in row_cells.cells:
             set_table_singleBoard(cell)
+
 
 def recursive_add_parameters(table, definition: dict, depth: int, obejct: str, dtoName: []):
     depth += 1
@@ -93,7 +96,8 @@ def recursive_add_parameters(table, definition: dict, depth: int, obejct: str, d
         type = pData.get('type', '')
         row_cells[2].text = type
         row_cells[3].text = 'true' if pName in requiredList else 'false'
-        row_cells[4].text = str(pData.get('example', ''))
+        row_cells[5].text = 'body'
+        row_cells[5].text = str(pData.get('example', ''))
         if type == 'array':
             if 'items' in pData and 'originalRef' in pData['items']:
                 originalRef = pData['items']['originalRef']
@@ -108,6 +112,7 @@ def recursive_add_parameters(table, definition: dict, depth: int, obejct: str, d
                 row_cells[2].text = type + "(" + pData['items']['type'] + ")"
         elif type == 'obejct':
             print(pName)
+
 
 def add_table_from_response_status(doc: Document, responses: dict):
     # 添加表格
@@ -141,6 +146,7 @@ def add_table_from_response_status(doc: Document, responses: dict):
 
         for cell in row_cells:
             set_table_singleBoard(cell)
+
 
 def add_table_from_response_data(doc: Document, definition: dict, responses: dict):
     # 添加表格
@@ -225,6 +231,7 @@ def set_table_boarder(table, **kwargs):
                     any_border.set(qn(f'w:{key}'), str(edge_data[key]))
             borders.append(any_border)
             table._tbl.tblPr.append(borders)
+
 
 # 设置cell的边框
 def set_cell_border(cell: _Cell, **kwargs):
