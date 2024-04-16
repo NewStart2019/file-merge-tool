@@ -1,21 +1,24 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import socket
 import subprocess
 import sys
 from datetime import datetime
 
-# »ñÈ¡±¾µØÖ÷»úÃû
+# è·å–æœ¬åœ°ä¸»æœºå
 host = socket.gethostname()
-# ÉèÖÃÄ¿±êIP¶Î
+# è®¾ç½®ç›®æ ‡IPæ®µ
 ip_range = "172.16.0."
 
-# É¨Ãèº¯Êı
+# æ‰«æå‡½æ•°
 def scan_ip(ip):
     try:
-        # ´´½¨SocketÁ¬½Ó
+        # åˆ›å»ºSocketè¿æ¥
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        # ÉèÖÃ³¬Ê±Ê±¼äÎª1Ãë
+        # è®¾ç½®è¶…æ—¶æ—¶é—´ä¸º1ç§’
         sock.settimeout(1)
-        # Á¬½Óµ½Ä¿±êIPµÄ80¶Ë¿Ú
+        # è¿æ¥åˆ°ç›®æ ‡IPçš„80ç«¯å£
         result = sock.connect_ex((ip, 80))
         if result == 0:
             print(f"Host {ip} is up")
@@ -23,20 +26,20 @@ def scan_ip(ip):
     except socket.error:
         pass
 
-# É¨ÃèIP¶ÎÄÚµÄÖ÷»ú
+# æ‰«æIPæ®µå†…çš„ä¸»æœº
 def scan_ip_range():
-    # »ñÈ¡µ±Ç°Ê±¼ä
+    # è·å–å½“å‰æ—¶é—´
     start_time = datetime.now()
 
-    # Ê¹ÓÃ¶àÏß³ÌÉ¨ÃèIP¶ÎÄÚµÄÖ÷»ú
+    # ä½¿ç”¨å¤šçº¿ç¨‹æ‰«æIPæ®µå†…çš„ä¸»æœº
     for i in range(1, 255):
         ip = ip_range + str(i)
         scan_ip(ip)
 
-    # Êä³öÉ¨ÃèËù»¨·ÑµÄÊ±¼ä
+    # è¾“å‡ºæ‰«ææ‰€èŠ±è´¹çš„æ—¶é—´
     end_time = datetime.now()
     total_time = end_time - start_time
     print(f"Scanning completed in {total_time}")
 
-# Ö´ĞĞIPÉ¨Ãè
+# æ‰§è¡ŒIPæ‰«æ
 scan_ip_range()
