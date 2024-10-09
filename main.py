@@ -3,7 +3,7 @@
 
 
 import argparse
-import os
+import os,re
 
 import docx
 from docx import Document
@@ -51,6 +51,28 @@ def set_text_style(doc, text):
     # 设置字体
     run.font.name = "monospace"
 
+def remove_java_coment(file_contents):
+    # 移除单行注释
+    code = re.sub(r'//.*', '', file_contents)
+    # 移除多行注释
+    code = re.sub(r'/\*.*?\*/', '', code, flags=re.DOTALL)
+    return code
+
+def remove_blank_lines(file_contents):
+    # 将文本按行分割，并去除每行首尾的空白字符
+    lines = [line for line in file_contents.splitlines() if line.strip()]
+    # 将非空行重新组合成一个字符串
+    return '\n'.join(lines)
+
+def remove_vue_comment(file_contents):
+    # 移除单行注释
+    code = re.sub(r'//.*', '', file_contents)
+    # 移除多行注释
+
+    # 移除 <----> 包围的多行注释
+    # 注意：这个正则表达式假设 <----> 不会出现在字符串内部
+    code = re.sub(r'<\-\-\-+[^>]*\-\->', '', code, flags=re.DOTALL)
+    return code
 
 # 读取每一个java文件
 def write_to_word(java_files, output_path, root, isWriteDir=True):
@@ -60,8 +82,13 @@ def write_to_word(java_files, output_path, root, isWriteDir=True):
     for file in java_files:
         with open(file, "r", encoding="utf-8") as f:
             file_contents = f.read()
-
-        if not isWriteDir:
+        if file.endswith(".java"):
+            file_contents = remove_java_coment(file_contents)
+        elif file.endswith(".vue"):
+            file_contents = remove_vue_comment(file_contents)
+        # 正则匹配去掉空白行和注释
+        file_contents = remove_blank_lines(file_contents)
+        if isWriteDir:
             fileName = file.replace(root + "\\", '')
             # level = fileName.count("\\")
             dirs = fileName.split("\\")
@@ -75,9 +102,9 @@ def write_to_word(java_files, output_path, root, isWriteDir=True):
         paragraphs = file_contents.split("\n")
         fileLine = len(paragraphs)
         lastWwrite = ""
-        for i in range(fileLine - 1):
+        for i in range(fileLine):
             paragraph = paragraphs[i].rstrip()
-            if (i + 1) < fileLine:
+            if (i + 1) < fileLine-1:
                 nextParagraph = paragraphs[i + 1].strip()
             else:
                 nextParagraph = ""
@@ -102,7 +129,7 @@ def parseParameter():
     parser.add_argument("-t", "--target", help="指定目标目录，必填")
     parser.add_argument("-o", "--output", help="指定输出文件名称，默认是output.docx")
     # 开关类型参数，如果制定了 -d 则为True
-    parser.add_argument("-d", "--writeDir", action='store_true', help="指示是否生成目录，默认写目录，false不写目录")
+    parser.add_argument("-d", "--writeDir", help="指示是否生成目录，默认写目录，false不写目录")
     parser.add_argument('-f', '--fileType', nargs='+',
                         help='指定读取文件类型，可以-f java vue 指定多个文件，默认java文件')
 
@@ -117,8 +144,10 @@ def parseParameter():
         exit(1)
     if not args.output:
         args.output = "output.docx"
-    if not args.writeDir:
-        args.writeDir = False
+    if args.writeDir is not None:
+        args.writeDir = (args.writeDir.lower()) == "true"
+    else:
+        args.writeDir = True
     if not args.fileType:
         args.fileType = ['java']
     return args
