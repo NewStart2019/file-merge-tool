@@ -3,7 +3,8 @@
 
 
 import argparse
-import os, re
+import os
+import re
 
 import docx
 from docx import Document
@@ -80,10 +81,8 @@ def remove_vue_comment(file_contents):
 
 
 # 读取每一个java文件
-def write_to_word(java_files, output_path, root, isWriteDir=True, noComment=False):
-    doc = Document()
+def write_to_word(java_files: list, root: str, doc: Document, isWriteDir=True, noComment=False):
     dir = []
-
     for file in java_files:
         with open(file, "r", encoding="utf-8") as f:
             file_contents = f.read()
@@ -122,8 +121,6 @@ def write_to_word(java_files, output_path, root, isWriteDir=True, noComment=Fals
                 set_text_style(doc, paragraph)
                 lastWwrite = paragraph
 
-        doc.save(output_path)
-
 
 # 指定目录路径和输出路径
 directory_path = "D:\Java\project\jcgl\stc-jcgl\src\main\java\com\cstc\jcgl\controller"
@@ -133,12 +130,12 @@ output_file_path = "output.docx"
 def parseParameter():
     # 创建参数解析器,创建解析器时指定 stdout 参数为 sys.stdout。这样可以确保打包后的可执行文件正确处理标准输出。
     parser = argparse.ArgumentParser()
-    parser.add_argument("-t", "--target", help="指定目标目录，必填")
+    parser.add_argument("-t", "--target", nargs='+', help="指定目标目录，必填, example: -t /home/java.docx /home/vue")
     parser.add_argument("-o", "--output", help="指定输出文件名称，默认是output.docx")
     # 开关类型参数，如果制定了 -d 则为True
     parser.add_argument("-d", "--writeDir", help="指示是否生成目录，默认写目录，false不写目录")
     parser.add_argument('-f', '--fileType', nargs='+',
-                        help='指定读取文件类型，可以-f java vue 指定多个文件，默认java文件')
+                        help='指定读取文件类型，可以-f java.docx vue 指定多个文件，默认java文件')
 
     parser.add_argument('-c', '--noComment', help='是否删除注释，默认不删除注释，true删除注释换行')
 
@@ -148,11 +145,16 @@ def parseParameter():
     if not args.target:
         print("没有指定目标目录")
         exit(1)
-    if not os.path.isdir(args.target):
-        print(args.target + "不是一个目录")
-        exit(1)
+    for target in args.target:
+        if not os.path.isdir(target):
+            print(target + "不是一个目录或目录不存在")
+            exit(1)
     if not args.output:
         args.output = "output.docx"
+    if args.output.endswith("\\"):
+        args.output = args.output + "output.docx"
+    if not args.output.endswith(".docx"):
+        args.output = args.output + ".docx"
     if args.writeDir is not None:
         args.writeDir = (args.writeDir.lower()) == "true"
     else:
@@ -162,12 +164,21 @@ def parseParameter():
     else:
         args.noComment = False
     if not args.fileType:
-        args.fileType = ['java']
+        args.fileType = ['java.docx']
     return args
 
 
 if __name__ == '__main__':
     args = parseParameter()
-    read_java_files(args.target, java_files, args.fileType)
-    # # 读取每一个文件写入到word文件中
-    write_to_word(java_files, args.output, args.target, args.writeDir, args.noComment)
+    doc = Document()
+    for t in args.target:
+        read_java_files(t, java_files, args.fileType)
+        t = "\\".join(t.split("\\")[0:-1])
+        # # 读取每一个文件写入到word文件中
+        write_to_word(java_files, t, doc, args.writeDir, args.noComment)
+        java_files = []
+    # 创建目录
+    output_file_dir = "\\".join(args.output.split("\\")[0:-1])
+    if not os.path.isdir(output_file_dir):
+        os.mkdir(output_file_dir)
+    doc.save(args.output)

@@ -7,3 +7,6 @@
 3.0 新增swagger转word文档的工具类， IP扫描类
 -- SwaggerToWord.py
 -- WriteTable.py
+
+4.0 添加转可执行文件功能
+--
