@@ -38,3 +38,8 @@ out/
 /src/main/resources/rebel.xml
 /tmp/
 /logs/
+output3.xlsx
+
+dist
+skills
+data
